@@ -14,3 +14,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+collections:
+    output: true
+    permalink: /:collection/:name/

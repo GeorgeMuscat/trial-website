@@ -8,6 +8,9 @@ gem "webrick", "~> 1.7"
 
 gem "kramdown-parser-gfm"
 
+gem "minimal-mistakes-jekyll"
+
+
 group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-feed'
